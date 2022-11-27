@@ -19,5 +19,6 @@ Using Pandas to help with the analysis, we can make effective business decisions
 - **new_york_city.csv**
 
 ### Credits
-* https://www.udacity.com/ - Guided me to understand python and mentored me through roadblocks.\
+* https://www.udacity.com/ - Guided me to understand python and mentored me through roadblocks.
 * https://stackoverflow.com/ - Was a tool used to understand lines of codes and error messages.
+* https://www.youtube.com/ - Was a visual tool to understand the concepts.
