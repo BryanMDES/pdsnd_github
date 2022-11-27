@@ -172,6 +172,7 @@ def user_stats(df):
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
+# While loop to ask uder to display 5 rows or more of data
 def display_data(df):
     """Shows you the number of rows of your data frame"""
 
